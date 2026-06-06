@@ -1,0 +1,6 @@
+{
+  "name": "Правда Рядом",
+  "description": "Социальная платформа для жителей города: сообщайте о городских проблемах, публикуйте события и боритесь с фейками.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
